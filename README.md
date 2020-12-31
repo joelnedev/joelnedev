@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 
+My main project is a server-specific Discord bot for the Killer Bean Club. You can find it at [the repo](https://github.com/JuhJuhButts/Vagan).
+I'm also looking for help with it. We have some big plans for it and I won't be able to do it all by myself! 
+You can reach me at evansjoe002@icloud.com or joel@joelne.digital. 
 
 <!--
-**JuhJuhButts/JuhJuhButts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
