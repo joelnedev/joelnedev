@@ -1,19 +1,32 @@
 ### Hi there 
-My main project is a server-specific Discord bot for the Killer Bean Club. You can find it at [the repo](https://github.com/JuhJuhButts/Vagan).
-I'm also looking for help with it. We have some big plans for it and I won't be able to do it all by myself! 
-You can reach me at evansjoe002@icloud.com or joel@joelne.digital. 
+I'm Joel Evans, a high school student who uses technology too much and is always looking for ways to improve it.
+You can contact me by emailing evansjoe002@icloud.com.
 
-<!--
+---
 
+I have experience in:
+ - Backend JavaScript
+ - TypeScript
+ - discord.js
+ - Python
+ - Windows 
+ - Linux
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am learning:
+ - Unity/C#
+ - Flutter/Dart
+ - Web Development (HTML/CSS/frontend JS)
+
+---
+
+Some projects I'm working on (in order from highest to lowest priority):
+ - [Vagan](https://github.com/JuhJuhButts/Vagan)
+ - [da-slash](https://github.com/JuhJuhButts/da-slash)
+ - [Sonic vs. Garfield: Battle for Syria](https://github.com/JuhJuhButts/Sonic-vs.-Garfield-Battle-for-Syria)
+ - [BruhBot](https://github.com/JuhJuhButts/BruhBot)
+
+---
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=JuhJuhButts&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
