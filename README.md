@@ -23,7 +23,7 @@ I am learning:
 
 Some projects I'm working on (in order from highest to lowest priority):
  - [Vagan](https://github.com/JuhJuhButts/Vagan)
- - [da-slash](https://github.com/JuhJuhButts/da-slash)
+ - [Beanulator](https://github.com/Beanulator) 
  - [Sonic vs. Garfield: Battle for Syria](https://github.com/JuhJuhButts/Sonic-vs.-Garfield-Battle-for-Syria)
  - [BruhBot](https://github.com/JuhJuhButts/BruhBot)
 
