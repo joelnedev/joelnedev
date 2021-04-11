@@ -8,23 +8,21 @@ I have experience in:
  - Backend JavaScript
  - TypeScript
  - discord.js
+ - Unity/C#
  - Python
- - Windows 
- - Linux
 
 ---
 
 I am learning:
- - Unity/C#
  - Flutter/Dart
  - Web Development (HTML/CSS/frontend JS)
 
 ---
 
 Some projects I'm working on (in order from highest to lowest priority):
+ - [Sonic vs. Garfield: Battle for Syria](https://github.com/Moyai-Studios/Sonic-vs.-Garfield-Battle-for-Syria)
  - [Vagan](https://github.com/JuhJuhButts/Vagan)
  - [Beanulator](https://github.com/Beanulator) 
- - [Sonic vs. Garfield: Battle for Syria](https://github.com/JuhJuhButts/Sonic-vs.-Garfield-Battle-for-Syria)
  - [BruhBot](https://github.com/JuhJuhButts/BruhBot)
 
 ---
