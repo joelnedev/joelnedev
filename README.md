@@ -21,10 +21,10 @@ I am learning:
 
 Some projects I'm working on (in order from highest to lowest priority):
  - [Sonic vs. Garfield: Battle for Syria and other games](https://github.com/Moyai-Studios)
- - [Vagan](https://github.com/JuhJuhButts/Vagan)
+ - [Vagan](https://github.com/joelnedev/Vagan)
  - [Beanulator](https://github.com/Decaffeinated-Studios/Beanulator) 
- - [BruhBot](https://github.com/JuhJuhButts/BruhBot)
+ - [BruhBot](https://github.com/joelnedev/BruhBot)
 
 ---
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=JuhJuhButts&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=joelnedev&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
