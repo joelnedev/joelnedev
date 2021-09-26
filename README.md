@@ -22,8 +22,6 @@ I am learning:
 Some projects I'm working on (in order from highest to lowest priority):
  - [Sonic vs. Garfield: Battle for Syria and other games](https://github.com/Moyai-Studios)
  - [Vagan](https://github.com/joelnedev/Vagan)
- - [Beanulator](https://github.com/Decaffeinated-Studios/Beanulator) 
- - [BruhBot](https://github.com/joelnedev/BruhBot)
 
 ---
 
