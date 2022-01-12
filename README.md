@@ -14,14 +14,14 @@ I have experience in:
 ---
 
 I am learning:
- - Flutter/Dart
  - Web Development (HTML/CSS/frontend JS)
+   - ReactJS (TSX)
 
 ---
 
 Some projects I'm working on (in order from highest to lowest priority):
+ - [Platyborg](https://github.com/joelnedev/Platyborg)
  - [Sonic vs. Garfield: Battle for Syria and other games](https://github.com/Moyai-Studios)
- - [Vagan](https://github.com/joelnedev/Vagan)
 
 ---
 
