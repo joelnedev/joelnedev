@@ -11,18 +11,3 @@ I have experience in:
  - Unity/C#
  - Python
 
----
-
-I am learning:
- - Web Development (HTML/CSS/frontend JS)
-   - ReactJS (TSX)
-
----
-
-Some projects I'm working on (in order from highest to lowest priority):
- - [Platyborg](https://github.com/joelnedev/Platyborg)
- - [Sonic vs. Garfield: Battle for Syria and other games](https://github.com/Moyai-Studios)
-
----
-
-[![My Stats](https://github-readme-stats.vercel.app/api?username=joelnedev&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
